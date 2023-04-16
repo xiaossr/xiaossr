@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Tina Wang!
+
+<br>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xiaossr&count_private=true&include_all_commits=true&show_icons=true&theme=algolia" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaossr&layout=compact&theme=algolia" alt="Top Languages" />
+</p>
 
 <!--
 **xiaossr/xiaossr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
