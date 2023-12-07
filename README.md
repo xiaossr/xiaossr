@@ -1,9 +1,12 @@
 ### Hey! I'm Tina
+<a>
+  <img height="165" align="right" src="https://github-readme-stats.vercel.app/api?username=xiaossr&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&rank_icon=github" alt="Github Stats" />
+</a>
 
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaossr&layout=compact&theme=algolia" alt="Top Languages" />
-</p>
+- [EGOI Gold Medalist](https://egoi.org/)
+- [USACO Finalist](http://usaco.org)
+- Senior at Marquette High School
+- 🌱 Currently learning about AI + ethics!
 
 <!--
 **xiaossr/xiaossr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
