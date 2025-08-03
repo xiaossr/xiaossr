@@ -5,5 +5,3 @@
 
 - [EGOI Gold Medalist](https://egoi.org/)
 - [USACO Finalist](http://usaco.org)
-- Freshman at MIT
-- 🌱 Currently learning about AI + ethics!
